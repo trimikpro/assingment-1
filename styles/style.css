@@ -148,3 +148,36 @@ margin: 100px 400px  20px 400px;
 .online-service-icone{
     width: 40px;
 }
+/* ----- offer section */
+.offer{
+    background-color:#faeaf0 ;
+    height: 300px;
+    
+   
+}
+.offer-section{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+.offer-section-1{
+    margin: 100px;
+    text-align: center  ;
+}
+.offer-section-2{
+    padding: 50px 150px ;
+}
+.offer-img{
+    width: 150px;
+    
+}
+.offer-title{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.offer-description{
+    color: #8f8b8b;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 20px;
+}
