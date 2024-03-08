@@ -1,0 +1,128 @@
+
+*{
+    margin: 0;
+}
+body{
+    font-family: "Lato", sans-serif;
+}
+/* primary styles */
+.btn-primary{
+    background-color: #E55473;
+    color: #FFFFFF;
+    margin-top: 20px;
+    border: none;
+    padding: 15px 30px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+
+/* banner section style  */
+
+.header{
+    background-color:#faeaf0 ;
+    padding-top: 50px;
+    
+}
+.banner{
+    margin: ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner-content{
+    width: 400px;
+    height: 300px;
+    margin-right: 50px;
+    
+}
+ .banner-pic{
+   height: 500px;
+   margin-left: 50px;
+}
+.banner-title{
+    font-size: 50px;
+    color: #272727;
+}
+.banner-description{
+    color: #272727;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+/* main section styles */
+
+.main-header{
+display: flex;
+justify-content: center;
+text-align: center;
+margin: 100px 400px  20px 400px;
+   
+}
+.main-section-header{
+    color: #272727;
+    margin-bottom: 20px;
+
+}
+.main-section-description{
+    color: #949393;
+}
+
+/* ------ */
+.main-flower{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+   
+}
+.main-picture-1{
+    background-color: #f8eff2;
+    padding: 30px 30px 0 30px;
+    border-radius: 100% 100% 0px 0px;
+    width: 220px;
+    height: 300px;
+}
+.main-picture-2{
+    background-color: #dcf6f7;
+    padding: 30px 30px 0 30px;
+    border-radius: 100% 100% 0px 0px;
+    width: 220px;
+    height: 300px;
+    
+}
+.main-picture-3{
+    background-color: #eef8e4;
+    padding: 30px 30px 0px 30px;
+    border-radius: 100% 100% 0px 0px;
+    width: 220px;
+    height: 300px;
+  
+}
+.picture-1{
+    width: 200px;
+    position: relative;
+    top: 25px;
+
+}
+.picture-2{
+    width: 200px;
+    position: relative;
+    top: 60px;
+}
+.picture-3{
+    width: 200px;
+}
+.main-section-pic{
+    margin-right: 20px;
+}
+.picture-name{
+    color: #272727;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 15px;
+}
+
+/* ------ */
