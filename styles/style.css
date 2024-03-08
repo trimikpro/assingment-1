@@ -126,3 +126,25 @@ margin: 100px 400px  20px 400px;
 }
 
 /* ------ */
+.service{
+    margin: 60px 0;
+}
+.flower-service{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #e9e5e5b1;
+    margin: 50px 200px 50px 180px;
+    padding: 50px 0;
+}
+.online-service{
+    text-align: center;
+    margin: 0 30px;
+}
+.online-service-name{
+  font-size: 14px;
+  margin-top: 10px;
+}
+.online-service-icone{
+    width: 40px;
+}
