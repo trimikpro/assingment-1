@@ -181,3 +181,16 @@ margin: 100px 400px  20px 400px;
     text-align: center;
     margin-top: 20px;
 }
+/* instagram section */
+.instagram{
+
+}
+.instagram-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;     
+}
+.instagram-image{
+     margin: 20px 20px 20px 0px;
+}
+/* ------- */
